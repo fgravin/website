@@ -1,4 +1,4 @@
-baseURL = "https://fgravin.github.io/website"
+baseURL = "https://fgravin.netlify.app/"
 languageCode = "fr-fr"
 title = "Florent Gravin hello"
 theme = "ananke"
