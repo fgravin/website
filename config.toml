@@ -1,0 +1,6 @@
+baseURL = "https://fgravin.github.io/website"
+languageCode = "fr-fr"
+title = "Florent Gravin"
+theme = "ananke"
+publishDir = "docs"
+
